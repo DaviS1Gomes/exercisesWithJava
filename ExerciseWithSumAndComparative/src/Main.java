@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // Faça um algoritmo que leia os valores de A, B, C e
+        // em seguida imprima na tela a soma entre A e B e mostre se a soma é menor que C.
+
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
