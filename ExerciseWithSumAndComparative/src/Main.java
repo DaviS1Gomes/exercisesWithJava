@@ -22,5 +22,6 @@ public class Main {
         if ((numberC > sum)) System.out.println("C is greater than A and B");
         else System.out.println("C is smaller than A and B");
 
+        sc.close();
     }
 }
