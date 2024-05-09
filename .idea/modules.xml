@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/5 Percent Adjustment Exercise/5 Percent Adjustment Exercise.iml" filepath="$PROJECT_DIR$/5 Percent Adjustment Exercise/5 Percent Adjustment Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmSumComparativeAndMultiplyComparative/AlgorithmSumComparativeAndMultiplyComparative.iml" filepath="$PROJECT_DIR$/AlgorithmSumComparativeAndMultiplyComparative/AlgorithmSumComparativeAndMultiplyComparative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BooleansExercises/BooleansExercises.iml" filepath="$PROJECT_DIR$/BooleansExercises/BooleansExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseHelloWorld/ExerciseHelloWorld.iml" filepath="$PROJECT_DIR$/ExerciseHelloWorld/ExerciseHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseWithSumAndComparative/ExerciseWithSumAndComparative.iml" filepath="$PROJECT_DIR$/ExerciseWithSumAndComparative/ExerciseWithSumAndComparative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumSalaryExercise/MinimumSalaryExercise.iml" filepath="$PROJECT_DIR$/MinimumSalaryExercise/MinimumSalaryExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odd_Or_Even_Positive_Or_Negative_Exercise/Odd_Or_Even_Positive_Or_Negative_Exercise.iml" filepath="$PROJECT_DIR$/Odd_Or_Even_Positive_Or_Negative_Exercise/Odd_Or_Even_Positive_Or_Negative_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SucessorExercise/SucessorExercise.iml" filepath="$PROJECT_DIR$/SucessorExercise/SucessorExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercisesWithJava.iml" filepath="$PROJECT_DIR$/.idea/exercisesWithJava.iml" />
+    </modules>
+  </component>
+</project>
