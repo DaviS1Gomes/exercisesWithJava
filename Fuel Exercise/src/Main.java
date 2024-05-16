@@ -21,7 +21,7 @@ public class Main {
         double distance = velocity * time;
 
         double literTotal = distance/KILOMETERSPERLITER;
-        System.out.println(literTotal);
+        System.out.printf("A Quantidade de litros gastas: %.2f%n", literTotal);
 
 
 
